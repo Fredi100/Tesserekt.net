@@ -1,0 +1,27 @@
+{
+  "name": "tesserekt.net",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fredi100/Tesserekt.net.git"
+  },
+  "author": "Alfred Emsenhuber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fredi100/Tesserekt.net/issues"
+  },
+  "homepage": "https://github.com/Fredi100/Tesserekt.net#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "next": "^9.1.6",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
