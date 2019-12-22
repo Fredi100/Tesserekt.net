@@ -22,6 +22,7 @@ export default class MyApp extends App {
             <React.Fragment>
                 <Head>
                     <title>Tesserekt.net</title>
+                    <link rel="shortcut icon" href="/favicon.ico" />
                 </Head>
                 <ThemeProvider theme={theme}>
                     {/* CssBaseline kickstart an elegant, consistent, and simple baseline to build upon. */}
