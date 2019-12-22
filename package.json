@@ -19,9 +19,16 @@
   },
   "homepage": "https://github.com/Fredi100/Tesserekt.net#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "@material-ui/core": "^4.8.0",
+    "clsx": "^1.0.4",
     "next": "^9.1.6",
+    "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.21",
+    "@types/react": "^16.9.17",
+    "typescript": "^3.7.4"
   }
 }

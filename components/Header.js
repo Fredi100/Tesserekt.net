@@ -5,7 +5,8 @@ const linkStyle = {
 };
 
 const Header = () => (
-    <div>
+    <header>
+        {/* TODO Make this a navbar */}
         <Link href="/">
             <a style={linkStyle}>Home</a>
         </Link>
@@ -15,7 +16,7 @@ const Header = () => (
         <Link href="/about">
             <a style={linkStyle}>About</a>
         </Link>
-    </div>
+    </header>
 );
 
 export default Header;
